@@ -1,0 +1,5 @@
+pypdf==3.17.0
+python-docx==0.8.11
+reportlab==4.0.4
+requests==2.31.0
+uuid==1.30
